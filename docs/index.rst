@@ -3,17 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-project_name documentation!
+The "mysterious Universe" data science project
 ==============================================
 
-Contents:
+Welcome to the docs. I hope these are informative enough.
+
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 4
+    :caption: Auto-generated API Reference
 
-   getting-started
-   commands
-
+    src
 
 
 Indices and tables

@@ -1,7 +1,10 @@
-project_name
-==============================
+My example project
+==================
 
-A short description of the project.
+A fake data science project to demonstrate nbsphinx and nbsphinx.
+
+It is based on the data science cookiecutter template.
+
 
 Project Organization
 ------------
