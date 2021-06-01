@@ -9,5 +9,6 @@ awscli
 flake8
 python-dotenv
 nbsphinx
+nbsphinx-link
 nbval
 pytest-cov

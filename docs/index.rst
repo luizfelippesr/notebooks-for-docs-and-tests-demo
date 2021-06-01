@@ -8,12 +8,20 @@ The "mysterious Universe" data science project
 
 Welcome to the docs. I hope these are informative enough.
 
+.. toctree::
+    :maxdepth: 4
+    :caption: Tutorials
+
+    demo
+
+
 
 .. toctree::
     :maxdepth: 4
     :caption: Auto-generated API Reference
 
     src
+
 
 
 Indices and tables
