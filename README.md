@@ -1,7 +1,7 @@
 My example project
 ==================
 
-A fake data science project to demonstrate nbsphinx and nbsphinx.
+A fake data science project to demonstrate nbsphinx and nbval.
 
 It is based on the data science cookiecutter template.
 
